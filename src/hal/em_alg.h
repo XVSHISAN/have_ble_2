@@ -42,3 +42,6 @@ void alg_set_move_action(uint8_t *data); // 设置移动动作
 void alg_move_run(); // 根据动作运行舵机
 
 #endif
+
+
+
